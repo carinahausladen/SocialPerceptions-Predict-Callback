@@ -3,18 +3,22 @@
 This repository contains data and code for a meta-analysis investigating North American labor market discrimination. 
 
 ## Citation
-If you use our data and/or code, please cite our preprint:
+If you use our data and/or code, please cite our paper:
 
 ```bibtex
-@article{hausladen2023social,
-  title={Social Perceptions of Warmth and Competence Predict Callback Rates in North American Labor Market Experiments},
-  author={Hausladen, Carina Ines and Gallo, Marcos and Hsu, Ming and Jenkins, Adrianna and Ona, Vaida and Camerer, Colin},
-  journal={Available at SSRN 4442252},
-  year={2023}
+@article{gallo2024perceived,
+  title={Perceived warmth and competence predict callback rates in meta-analyzed North American labor market experiments},
+  author={Gallo, Marcos and Hausladen, Carina I and Hsu, Ming and Jenkins, Adrianna C and Ona, Vaida and Camerer, Colin F},
+  journal={Plos one},
+  volume={19},
+  number={7},
+  pages={e0304723},
+  year={2024},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
 
-Direct Link to Preprint: [Social Perceptions of Warmth and Competence Predict Callback Rates in North American Labor Market Experiments](https://ssrn.com/abstract=4442252) or [DOI](http://dx.doi.org/10.2139/ssrn.4442252)
+Direct Link to Preprint: [Social Perceptions of Warmth and Competence Predict Callback Rates in North American Labor Market Experiments](https://doi.org/10.1371/journal.pone.0304723)
 
 
 # File Structure
